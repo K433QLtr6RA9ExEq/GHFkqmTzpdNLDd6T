@@ -18,7 +18,7 @@ nginx_username=$(cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 42 | head -n 1)
 secret_password=$(cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 42 | head -n 1)
 
 # Blockchain
-seed_node="04d6301d7f3681e3cf97e77b244562cfceaadbd0@prod-pnet-seed-node.lavanet.xyz:26656"
+seed_node="94128ac6a49d32ac4ea2c025d336297b9e1790d6@prod-pnet-seed-node.lavanet.xyz:26656"
 
 # Lavad service
 keyring_backend="test"
