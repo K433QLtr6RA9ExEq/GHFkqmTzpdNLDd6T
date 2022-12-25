@@ -1,12 +1,12 @@
 {
-  "genesis_time": "2022-12-21T12:59:52.462753078Z",
-  "chain_id": "lava",
+  "genesis_time": "2022-12-25T14:21:23.939772624Z",
+  "chain_id": "lava-testnet-1",
   "initial_height": "1",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
       "max_gas": "-1",
-      "time_iota_ms": "1000"
+      "time_iota_ms": "59000"
     },
     "evidence": {
       "max_age_num_blocks": "100000",
@@ -33,112 +33,49 @@
       "accounts": [
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "lava@1ht95wteaqlarac452p262djd7wgp330dkf2d5e",
+          "address": "lava@1y9amazkjy6jwqq2nyxy7fphwr64hurcfeh8sem",
           "pub_key": null,
           "account_number": "0",
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "lava@1xpaek785dm0w85dvgckyd2f9uyeltzyrgpr858",
+          "address": "lava@1hu8lpvrml6ak2ty05h4eca7ws5mfuvlawyevxs",
           "pub_key": null,
           "account_number": "0",
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "lava@1m0ydcal84jttye3nfrzcxtty7e74gfrxsgu20s",
+          "address": "lava@142skr6pp2atuudvy7qt6a5ykchn3cd5vs343t2",
           "pub_key": null,
           "account_number": "0",
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "lava@1tkyxrwqyys3e2gcvlu47ad266m3d6va38qglaa",
+          "address": "lava@1587ntnhx70tt85hl3dxcg9acgjdgcsd2xv45f9",
           "pub_key": null,
           "account_number": "0",
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "lava@1u7n4y76486kvh3dfne5d5j5dyfxgq8u6u76xyx",
+          "address": "lava@1luukzw09q8ttp46rw4f9ffs3sesl5myg0eek6a",
           "pub_key": null,
           "account_number": "0",
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "lava@1769kl8gu3ttws2sz29kgzhl6fl8vzva54gengu",
+          "address": "lava@12rfpxtfl7lm5c85lnmpfah86vvma6hsc3ex90s",
           "pub_key": null,
           "account_number": "0",
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "lava@17ddj7thhzrc9ucle5tum7qg0pas90zem88ldpp",
-          "pub_key": null,
-          "account_number": "0",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "lava@1cv9676mhxd9gs8tx7lk0dlenx7sy7zcuufgtjv",
-          "pub_key": null,
-          "account_number": "0",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "lava@1a4vlf7xfkv8pf29ccypl0cd4f6d6j3glxgu0ul",
-          "pub_key": null,
-          "account_number": "0",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "lava@16egvje9x6nzt5cqu7x34ls4yns0qylqj4fztlk",
-          "pub_key": null,
-          "account_number": "0",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "lava@1u8a3tja8vs7ykhwa3acn29pr3lwlpw9swrr5at",
-          "pub_key": null,
-          "account_number": "0",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "lava@1mc0md80sq6xxgg32qpkjwju9cptna96djwfvqs",
-          "pub_key": null,
-          "account_number": "0",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "lava@13485nj5pscp9kdz8lfg996s6hx4m355yxhuvej",
-          "pub_key": null,
-          "account_number": "0",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "lava@1rnnqkx6yfg2pt7ur4jvra2n82f8pegxy9zxxxf",
-          "pub_key": null,
-          "account_number": "0",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "lava@18mhzx5fs89vhs5t79d29h9egxj4a0rlpgcar0j",
-          "pub_key": null,
-          "account_number": "0",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "lava@1ygsylw3j8qp49j7dpfxtzt3ml4crz2d98qnuna",
+          "address": "lava@1k9frpxfaf97333876fhdfv732jlq43wy93clvv",
           "pub_key": null,
           "account_number": "0",
           "sequence": "0"
@@ -152,25 +89,7 @@
       },
       "balances": [
         {
-          "address": "lava@1rnnqkx6yfg2pt7ur4jvra2n82f8pegxy9zxxxf",
-          "coins": [
-            {
-              "denom": "ulava",
-              "amount": "1000000000"
-            }
-          ]
-        },
-        {
-          "address": "lava@1ygsylw3j8qp49j7dpfxtzt3ml4crz2d98qnuna",
-          "coins": [
-            {
-              "denom": "ulava",
-              "amount": "1000000000"
-            }
-          ]
-        },
-        {
-          "address": "lava@1xpaek785dm0w85dvgckyd2f9uyeltzyrgpr858",
+          "address": "lava@1y9amazkjy6jwqq2nyxy7fphwr64hurcfeh8sem",
           "coins": [
             {
               "denom": "ulava",
@@ -179,16 +98,16 @@
           ]
         },
         {
-          "address": "lava@18mhzx5fs89vhs5t79d29h9egxj4a0rlpgcar0j",
+          "address": "lava@12rfpxtfl7lm5c85lnmpfah86vvma6hsc3ex90s",
           "coins": [
             {
               "denom": "ulava",
-              "amount": "1000000000"
+              "amount": "769000000000000000"
             }
           ]
         },
         {
-          "address": "lava@1tkyxrwqyys3e2gcvlu47ad266m3d6va38qglaa",
+          "address": "lava@1587ntnhx70tt85hl3dxcg9acgjdgcsd2xv45f9",
           "coins": [
             {
               "denom": "ulava",
@@ -197,16 +116,7 @@
           ]
         },
         {
-          "address": "lava@13485nj5pscp9kdz8lfg996s6hx4m355yxhuvej",
-          "coins": [
-            {
-              "denom": "ulava",
-              "amount": "1000000000"
-            }
-          ]
-        },
-        {
-          "address": "lava@1ht95wteaqlarac452p262djd7wgp330dkf2d5e",
+          "address": "lava@142skr6pp2atuudvy7qt6a5ykchn3cd5vs343t2",
           "coins": [
             {
               "denom": "ulava",
@@ -215,25 +125,16 @@
           ]
         },
         {
-          "address": "lava@1cv9676mhxd9gs8tx7lk0dlenx7sy7zcuufgtjv",
+          "address": "lava@1k9frpxfaf97333876fhdfv732jlq43wy93clvv",
           "coins": [
             {
               "denom": "ulava",
-              "amount": "1000000000"
+              "amount": "195000000000000000"
             }
           ]
         },
         {
-          "address": "lava@16egvje9x6nzt5cqu7x34ls4yns0qylqj4fztlk",
-          "coins": [
-            {
-              "denom": "ulava",
-              "amount": "1000000000"
-            }
-          ]
-        },
-        {
-          "address": "lava@1m0ydcal84jttye3nfrzcxtty7e74gfrxsgu20s",
+          "address": "lava@1hu8lpvrml6ak2ty05h4eca7ws5mfuvlawyevxs",
           "coins": [
             {
               "denom": "ulava",
@@ -242,56 +143,11 @@
           ]
         },
         {
-          "address": "lava@1mc0md80sq6xxgg32qpkjwju9cptna96djwfvqs",
+          "address": "lava@1luukzw09q8ttp46rw4f9ffs3sesl5myg0eek6a",
           "coins": [
             {
               "denom": "ulava",
-              "amount": "1000000000"
-            }
-          ]
-        },
-        {
-          "address": "lava@1u8a3tja8vs7ykhwa3acn29pr3lwlpw9swrr5at",
-          "coins": [
-            {
-              "denom": "ulava",
-              "amount": "1000000000"
-            }
-          ]
-        },
-        {
-          "address": "lava@1u7n4y76486kvh3dfne5d5j5dyfxgq8u6u76xyx",
-          "coins": [
-            {
-              "denom": "ulava",
-              "amount": "100000000000"
-            }
-          ]
-        },
-        {
-          "address": "lava@1a4vlf7xfkv8pf29ccypl0cd4f6d6j3glxgu0ul",
-          "coins": [
-            {
-              "denom": "ulava",
-              "amount": "1000000000"
-            }
-          ]
-        },
-        {
-          "address": "lava@17ddj7thhzrc9ucle5tum7qg0pas90zem88ldpp",
-          "coins": [
-            {
-              "denom": "ulava",
-              "amount": "1000000000"
-            }
-          ]
-        },
-        {
-          "address": "lava@1769kl8gu3ttws2sz29kgzhl6fl8vzva54gengu",
-          "coins": [
-            {
-              "denom": "ulava",
-              "amount": "1000000000000000"
+              "amount": "360000000000000"
             }
           ]
         }
@@ -343,9 +199,9 @@
     },
     "epochstorage": {
       "params": {
-        "unstakeHoldBlocks": "210",
-        "epochBlocks": "20",
-        "epochsToSave": "10",
+        "unstakeHoldBlocks": "350",
+        "epochBlocks": "30",
+        "epochsToSave": "50",
         "latestParamChange": "0"
       },
       "stakeStorageList": [],
@@ -370,128 +226,6 @@
               {
                 "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
                 "description": {
-                  "moniker": "stg-pnet0-validator-4",
-                  "identity": "",
-                  "website": "",
-                  "security_contact": "",
-                  "details": ""
-                },
-                "commission": {
-                  "rate": "0.100000000000000000",
-                  "max_rate": "0.200000000000000000",
-                  "max_change_rate": "0.010000000000000000"
-                },
-                "min_self_delegation": "1",
-                "delegator_address": "lava@1tkyxrwqyys3e2gcvlu47ad266m3d6va38qglaa",
-                "validator_address": "lava@valoper1tkyxrwqyys3e2gcvlu47ad266m3d6va3nfnc02",
-                "pubkey": {
-                  "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "j355AWoJ7TXK38nkPUIvJ6ReZ2WcJFZFPSTfS+244vw="
-                },
-                "value": {
-                  "denom": "ulava",
-                  "amount": "500000000000"
-                }
-              }
-            ],
-            "memo": "00c136ac867ec9dd3a9d1c1d6144f1a96d7783e8@52.210.158.168:26656",
-            "timeout_height": "0",
-            "extension_options": [],
-            "non_critical_extension_options": []
-          },
-          "auth_info": {
-            "signer_infos": [
-              {
-                "public_key": {
-                  "@type": "/cosmos.crypto.secp256k1.PubKey",
-                  "key": "A9VwCt1mgkJWy8oou5Y/znGSAoqh+GAVvmWbOzzz++LP"
-                },
-                "mode_info": {
-                  "single": {
-                    "mode": "SIGN_MODE_DIRECT"
-                  }
-                },
-                "sequence": "0"
-              }
-            ],
-            "fee": {
-              "amount": [],
-              "gas_limit": "200000",
-              "payer": "",
-              "granter": ""
-            }
-          },
-          "signatures": [
-            "YjamCjk28qNB1sEuVwP+7ZCNl+tC849IIbyXMk0jzrt9gd5traH9MfKyvy+LZV2po0NgI3YsswBeVy8ueiUUXQ=="
-          ]
-        },
-        {
-          "body": {
-            "messages": [
-              {
-                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
-                "description": {
-                  "moniker": "stg-pnet0-validator-1",
-                  "identity": "",
-                  "website": "",
-                  "security_contact": "",
-                  "details": ""
-                },
-                "commission": {
-                  "rate": "0.100000000000000000",
-                  "max_rate": "0.200000000000000000",
-                  "max_change_rate": "0.010000000000000000"
-                },
-                "min_self_delegation": "1",
-                "delegator_address": "lava@1ht95wteaqlarac452p262djd7wgp330dkf2d5e",
-                "validator_address": "lava@valoper1ht95wteaqlarac452p262djd7wgp330dzq32xw",
-                "pubkey": {
-                  "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "TFQjwqzV1ty3+TbTVFcuHnvuVREksLZ5OF5qr6zR0uA="
-                },
-                "value": {
-                  "denom": "ulava",
-                  "amount": "500000000000"
-                }
-              }
-            ],
-            "memo": "19e5fe1065977ab295c8028a05cec3111015838e@54.144.69.182:26656",
-            "timeout_height": "0",
-            "extension_options": [],
-            "non_critical_extension_options": []
-          },
-          "auth_info": {
-            "signer_infos": [
-              {
-                "public_key": {
-                  "@type": "/cosmos.crypto.secp256k1.PubKey",
-                  "key": "A4rTBKbU26o4Vz2usvaY3lNGP5D5AHvxjvQrEBbGUZgP"
-                },
-                "mode_info": {
-                  "single": {
-                    "mode": "SIGN_MODE_DIRECT"
-                  }
-                },
-                "sequence": "0"
-              }
-            ],
-            "fee": {
-              "amount": [],
-              "gas_limit": "200000",
-              "payer": "",
-              "granter": ""
-            }
-          },
-          "signatures": [
-            "HMqXSV9dvVtMcA3SzY/eHRqGMlNuEuPchMVCPjiAka0KUsnVLFFnuLhvHjxB8TCLE1q1EUCf78K7JurT17D6nA=="
-          ]
-        },
-        {
-          "body": {
-            "messages": [
-              {
-                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
-                "description": {
                   "moniker": "stg-pnet0-validator-3",
                   "identity": "",
                   "website": "",
@@ -504,11 +238,11 @@
                   "max_change_rate": "0.010000000000000000"
                 },
                 "min_self_delegation": "1",
-                "delegator_address": "lava@1m0ydcal84jttye3nfrzcxtty7e74gfrxsgu20s",
-                "validator_address": "lava@valoper1m0ydcal84jttye3nfrzcxtty7e74gfrxyp8da8",
+                "delegator_address": "lava@142skr6pp2atuudvy7qt6a5ykchn3cd5vs343t2",
+                "validator_address": "lava@valoper142skr6pp2atuudvy7qt6a5ykchn3cd5vycwkea",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "sx+MVnR5CumlhPkoo2W+qJXWKOKKwJTcx/1tTGAkOVQ="
+                  "key": "qOcOtcx21wxycd+Ekpzlq2FX0aVgfRsCt8hcoX8MlkA="
                 },
                 "value": {
                   "denom": "ulava",
@@ -516,7 +250,7 @@
                 }
               }
             ],
-            "memo": "d10e4ae440c742fc15c6f258c1cc5c082e8845bf@54.171.17.207:26656",
+            "memo": "23c1e38d507083917cd64e2c5854cb80bc314dc0@54.171.17.207:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -526,7 +260,7 @@
               {
                 "public_key": {
                   "@type": "/cosmos.crypto.secp256k1.PubKey",
-                  "key": "AuMDtsp2HB0SEwXjAKESAnB5AvNrPZBC+hsZP4iGflfk"
+                  "key": "AgTgs0x8zEuz3va2CK9DxJ2hszIeSakxy4u4/Zh6j3QR"
                 },
                 "mode_info": {
                   "single": {
@@ -544,7 +278,7 @@
             }
           },
           "signatures": [
-            "TUCdMuLBA0p1ogCk6Ql3FlkeX4XFA9z5kMTXwS8BdcgHYt+lwNZuOHHjvgy8efISE3eURW4UoZn58M4c4ciKrA=="
+            "MSrMxliQg0lmK14/wXwg1+FpCm3twd2ZEskHlGBEyKZ/6SnB/pvHPQHBEGgOQhBMO6KiFneldvIg0+k72MgWQg=="
           ]
         },
         {
@@ -565,11 +299,11 @@
                   "max_change_rate": "0.010000000000000000"
                 },
                 "min_self_delegation": "1",
-                "delegator_address": "lava@1xpaek785dm0w85dvgckyd2f9uyeltzyrgpr858",
-                "validator_address": "lava@valoper1xpaek785dm0w85dvgckyd2f9uyeltzyrugcqxs",
+                "delegator_address": "lava@1hu8lpvrml6ak2ty05h4eca7ws5mfuvlawyevxs",
+                "validator_address": "lava@valoper1hu8lpvrml6ak2ty05h4eca7ws5mfuvla6dzt58",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "5VvoLHa4/6kUvOeL5dvv6JCWyxZpW4dJb0Jvd8qHTNY="
+                  "key": "Z2qqAve6wW7T0GSbaic4ef+SjyD4lv1ylwSaw4euq00="
                 },
                 "value": {
                   "denom": "ulava",
@@ -577,7 +311,7 @@
                 }
               }
             ],
-            "memo": "d314b97b4823c20f3d580176fe6dae3d891b5ca5@44.196.143.228:26656",
+            "memo": "4b82a658919cb7cc18e7aa5b9d49a75ef138c64e@44.196.143.228:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -587,7 +321,7 @@
               {
                 "public_key": {
                   "@type": "/cosmos.crypto.secp256k1.PubKey",
-                  "key": "A1adgJR+p/ZwFCe9Z63foVRaRhRo3wK+imH8g8Vq9Zg4"
+                  "key": "Azc82u5PFQA7BoQYqMiks8E1AyuUWtFhu4mTCwnxTgsJ"
                 },
                 "mode_info": {
                   "single": {
@@ -605,7 +339,129 @@
             }
           },
           "signatures": [
-            "GPU7Toi2L1ldqysen345D+YSTj6cXW2KMOemEX6Cy9MFY6+z6AbNyc0eY2FFxhcw8RHSyqV8UbIBFLI3B+PyUA=="
+            "IzEfH7HMiwIzOYE2/gM88pYxoM/hMyuuD7971o9N78RaE+gcfbRmJSPnIMPvMfKrf5d+ZCdVPi7QsH9h/0SWcA=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "stg-pnet0-validator-1",
+                  "identity": "",
+                  "website": "",
+                  "security_contact": "",
+                  "details": ""
+                },
+                "commission": {
+                  "rate": "0.100000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.010000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "lava@1y9amazkjy6jwqq2nyxy7fphwr64hurcfeh8sem",
+                "validator_address": "lava@valoper1y9amazkjy6jwqq2nyxy7fphwr64hurcfd7uhtv",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "pWqrYEX95aXqC7oMuojTCXHtQ6Y8q2ZErsbRFEs3quQ="
+                },
+                "value": {
+                  "denom": "ulava",
+                  "amount": "500000000000"
+                }
+              }
+            ],
+            "memo": "523916d5e085f26c90d4a2dd3b2734c7b28d529b@54.144.69.182:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "AkvbQkGWviysbsvUCZ8teUs2ln3WO+iz+0UFowfAOXte"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "opJXcUoh8cU+EDcvzZUYZWZuTOs+0vjzXfh2U3fNyKlkpTjyI+aXJGucJhWRlcCgfFkFxEuZBsE/mwPWgSlyKA=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "stg-pnet0-validator-4",
+                  "identity": "",
+                  "website": "",
+                  "security_contact": "",
+                  "details": ""
+                },
+                "commission": {
+                  "rate": "0.100000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.010000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "lava@1587ntnhx70tt85hl3dxcg9acgjdgcsd2xv45f9",
+                "validator_address": "lava@valoper1587ntnhx70tt85hl3dxcg9acgjdgcsd2j9wnmj",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "LoYgvQelsLIiFONhq6Xh8KwdKdanMpPdKe/4XCTgir4="
+                },
+                "value": {
+                  "denom": "ulava",
+                  "amount": "500000000000"
+                }
+              }
+            ],
+            "memo": "c0d9684b2142d1269ec12d149c8bfc84d4880585@52.210.158.168:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "A2k+y+I9HvGLWEkvnWXhG3mwvRrOENGeMU3KNh/MCfy8"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "tzn+XJM08tvhQU6yF96MwFq3IpRhCiXrbTG1R1aQgZVe1b8JH9dIOqNOGIYcGuHunx5lkG7FVDVxYdfK558jFQ=="
           ]
         }
       ]
@@ -625,7 +481,7 @@
         "max_deposit_period": "172800s"
       },
       "voting_params": {
-        "voting_period": "20s"
+        "voting_period": "300s"
       },
       "tally_params": {
         "quorum": "0.334000000000000000",
@@ -677,21 +533,21 @@
         "inflation_max": "0.200000000000000000",
         "inflation_min": "0.070000000000000000",
         "goal_bonded": "0.670000000000000000",
-        "blocks_per_year": "6311520"
+        "blocks_per_year": "525600"
       }
     },
     "pairing": {
       "params": {
         "minStakeProvider": {
           "denom": "ulava",
-          "amount": "1000"
+          "amount": "500000000000"
         },
         "minStakeClient": {
           "denom": "ulava",
-          "amount": "100"
+          "amount": "5000000000"
         },
-        "mintCoinsPerCU": "0.100000000000000000",
-        "burnCoinsPerCU": "0.050000000000000000",
+        "mintCoinsPerCU": "3000",
+        "burnCoinsPerCU": "4500",
         "fraudStakeSlashingFactor": "0.000000000000000000",
         "fraudSlashingAmount": "0",
         "servicersToPairCount": "2",
@@ -702,42 +558,28 @@
               "denom": "ulava",
               "amount": "1"
             },
-            "MaxComputeUnits": 5000
+            "MaxComputeUnits": 1700
           },
           {
             "StakeThreshold": {
               "denom": "ulava",
-              "amount": "500"
+              "amount": "5500000100"
             },
-            "MaxComputeUnits": 15000
+            "MaxComputeUnits": 15500
           },
           {
             "StakeThreshold": {
               "denom": "ulava",
-              "amount": "2000"
+              "amount": "50000000100"
             },
-            "MaxComputeUnits": 50000
+            "MaxComputeUnits": 46000
           },
           {
             "StakeThreshold": {
               "denom": "ulava",
-              "amount": "5000"
+              "amount": "500000000100"
             },
-            "MaxComputeUnits": 250000
-          },
-          {
-            "StakeThreshold": {
-              "denom": "ulava",
-              "amount": "100000"
-            },
-            "MaxComputeUnits": 500000
-          },
-          {
-            "StakeThreshold": {
-              "denom": "ulava",
-              "amount": "9999900000"
-            },
-            "MaxComputeUnits": 9999999999
+            "MaxComputeUnits": 4600000
           }
         ],
         "unpayLimit": "0.100000000000000000",
@@ -763,7 +605,7 @@
     },
     "spec": {
       "params": {
-        "geolocationCount": "8",
+        "geolocationCount": "2",
         "maxCU": "10000"
       },
       "specList": [],
